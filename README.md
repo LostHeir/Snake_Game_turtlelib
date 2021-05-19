@@ -15,7 +15,7 @@ Use arrows to change the direction on the snake. Food is spawning randomly on th
 Main goal of the project was to practice with a turtle library.
 
 ## Screenshots
-![Gameplay](./Snake Game.png)\
+![Gameplay](./Snake_Game.png)\
 
 ## Technologies
 * Python 3.8
